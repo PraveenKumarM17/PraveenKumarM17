@@ -1,108 +1,259 @@
-<p align="center" style="font-family: 'Courier New', monospace; color: #00FF00; font-size: 1.5em;">
-  <strong>┌──(cse_student㉿<br>localhost)─[~/github-profile]</strong><br>
-  <strong>└─$</strong> ./intro.sh
-</p>
-
-<pre align="center" style="color: #00FF00;">
-[ Initializing system... ]
-[ ✓ ] Booting CSE identity...
-[ ✓ ] Linking full-stack.dev
-[ ✓ ] Cloud protocols engaged
-</pre>
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Praveen Kumar M</h1>
-
-<h3 align="center">💻 CSE Student | Full-Stack Developer in Progress | ☁️ Cloud Enthusiast</h3>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=echo+Welcome+to+my+GitHub!;echo+Coding+Full-Stack+and+Cloud;echo+Stay+Connected+%F0%9F%91%BD" alt="Typing SVG" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraveenKumarM17&label=Profile%20views&color=0e75b6&style=flat" alt="PraveenKumarM17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PraveenKumarM17&theme=" alt="PraveenKumarM17" /></a> </p>
-
-
-- 🔭 I’m currently working on **Some basic projects to gain hands on.**
-- 👯 I’m looking to collaborate on **any frontend works to gain more experience.**
-- 🤝 I’m looking for help with **Cloud computing**
-- 🌱 I’m currently learning **Frontend & Cloud computing**
-- 💬 Ask me about **HTML, CSS, Javascript, C, C++**
-- 📫 How to reach me **praveenkumarm4307@gmail.com**
-- ⚡ Fun fact **I am Lazy!!**
-
-<div> <a href="https://github.com/PraveenKumarM17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:praveenkumarm4307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-<h3 align="left">🚀 Languages and Tools:</h3>
-
-<p align="left">
-  <a href="#" title="C">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40" style="margin-right:10px;"/>
-  </a>
-  <a href="#" title="C++">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="#" title="CSS">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="#" title="HTML">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="#" title="React">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="#" title="NodeJS">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  </a>
-  <a href="#" title="Express">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="#" title="MySQL">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="#" title="Oracle">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="#" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="#" title="Docker">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="#" title="Figma">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="#" title="Postman">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="#" title="Git">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&layout=compact&theme=transparent" alt=PraveenKumarM17 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenKumarM17&show_icons=true&locale=en&theme=transparent" alt="PraveenKumarM17" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=transparent" alt="PraveenKumarM17" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/PraveenKumarM17">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraveenKumarM17&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraveenKumarM17&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenKumarM17&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraveenKumarM17&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=2077" height="180em" />
+  
+  <!-- Hacker-style ASCII Art Header -->
+  ```
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │  ▓█████▄ ▓█████  ▄████▄   ▒█████  ▓█████▄ ▓█████  ██▀███                │
+  │  ▒██▀ ██▌▓█   ▀ ▒██▀ ▀█  ▒██▒  ██▒▒██▀ ██▌▓█   ▀ ▓██ ▒ ██▒              │
+  │  ░██   █▌▒███   ▒▓█    ▄ ▒██░  ██▒░██   █▌▒███   ▓██ ░▄█ ▒              │
+  │  ░▓█▄   ▌▒▓█  ▄ ▒▓▓▄ ▄██▒▒██   ██░░▓█▄   ▌▒▓█  ▄ ▒██▀▀█▄                │
+  │  ░▒████▓ ░▒████▒▒ ▓███▀ ░░ ████▓▒░░▒████▓ ░▒████▒░██▓ ▒██▒              │
+  │   ▒▒▓  ▒ ░░ ▒░ ░░ ░▒ ▒  ░░ ▒░▒░▒░  ▒▒▓  ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░              │
+  │                                                                         │
+  │  PRAVEEN@SYSTEM:~$ whoami                                               │
+  │  > CSE Student | Full-Stack Developer | Cloud Enthusiast                │
+  │                                                                         │
+  │  PRAVEEN@SYSTEM:~$ status                                               │
+  │  > [ONLINE] Access Granted...                                           │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
+  ```
+  
+  <!-- Matrix-style animated text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM+BREACH+SUCCESSFUL;ACCESSING+MAINFRAME...;DOWNLOADING+SKILLS...;INJECTING+CODE...;CONNECTION+ESTABLISHED" alt="Hacker Typing SVG" />
+  
+  <br>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=PraveenKumarM17&style=for-the-badge&color=00FF00" alt="Profile Views" />
+  
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <!-- Main Banner with Name -->
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Praveen+Kumar+M;Welcome+to+my+digital+world!;%F0%9F%92%BB+CSE+Student;%F0%9F%9A%80+Full-Stack+Developer;%E2%98%81%EF%B8%8F+Cloud+Enthusiast" alt="Typing SVG" />
+</div>
+
+  <br>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=PraveenKumarM17&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  
+</div>
+
+---
+
+<!-- Hacker-themed About Me Section -->
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"> <b>IDENTITY_PROFILE</b>
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img align="center" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100%">
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/[STATUS]-Active_Threat-00FF00?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Status" />
+        <br><br>
+        <img src="https://img.shields.io/badge/[TERMINAL]-Connection_Secure-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
+        <br><br>
+        <img src="https://img.shields.io/badge/[OBJECTIVE]-Code_|_Hack_|_Deploy-00FF00?style=for-the-badge&logo=hackaday&logoColor=white" alt="Objective" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+```
+// CLASSIFIED INFORMATION
+// SECURITY LEVEL: PUBLIC
+
+struct DeveloperProfile {
+    char* primary_skills[5] = {"C", "C++", "JavaScript", "HTML", "CSS"};
+    char* currently_hacking = "Frontend Frameworks & Cloud Architecture";
+    char* seeking_access_to = "Collaborative Frontend Projects";
+    char* requesting_backup_on = "Advanced Cloud Computing Protocols";
+    bool detected_after_midnight = true;
+    
+    void execute_daily() {
+        code();
+        learn();
+        hack();
+        repeat();
+    }
+};
+```
+
+<details>
+  <summary><b>$ cat hidden_data.txt</b></summary>
+  <br>
+  <pre>
+  ┌──────────────────────────────────────────────────────────┐
+  │ TARGET ANALYSIS:                                         │
+  │ • Identity: Computer Science Engineering Student         │
+  │ • Primary Focus: Full Stack Development & Cloud Computing│
+  │ • Current Operation: Building Frontend Experience        │
+  │ • Open Backdoors: Accepting Frontend Collaborations      │
+  │ • Requesting Assistance: Cloud Computing Implementation  │
+  │ • Communication Protocols: HTML, CSS, JavaScript, C, C++ │
+  │ • Anomaly Detected: Code efficiency peaks after midnight │
+  └──────────────────────────────────────────────────────────┘
+  </pre>
+</details>
+
+<div align="center">
+  <a href="mailto:praveenkumarm4307@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/PraveenKumarM17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- You can add more social links here -->
+</div>
+
+---
+
+<!-- Tech Stack Section - Hacker Style -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>WEAPONRY_AND_TOOLS</b>
+
+<div align="center">
+  
+  ```
+  ┌───────────────────────────────────────────────────────────┐
+  │                                                           │
+  │   SCANNING TARGET SYSTEM FOR DEPLOYED TECHNOLOGIES...     │
+  │   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%         │
+  │                                                           │
+  └───────────────────────────────────────────────────────────┘
+  ```
+  
+  <!-- Languages -->
+  <h3>PROGRAMMING_LANGUAGES</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=black" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" alt="JavaScript" />
+  </p>
+  
+  <!-- Frontend -->
+  <h3>FRONTEND_EXPLOITATION</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" alt="React" />
+  </p>
+  
+  <!-- Backend -->
+  <h3>BACKEND_INFILTRATION</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black" alt="Express.js" />
+  </p>
+  
+  <!-- Database -->
+  <h3>DATABASE_MANIPULATION</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black" alt="Oracle" />
+  </p>
+  
+  <!-- Tools -->
+  <h3>HACKING_UTILITIES</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Git" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" alt="Figma" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=black" alt="Postman" />
+  </p>
+</div>
+
+---
+
+<!-- GitHub Stats Section - Hacker Style -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>SYSTEM_METRICS</b>
+
+<div align="center">
+  ```
+  ┌───────────────────────────────────────────────────────────┐
+  │                                                           │
+  │   INITIATING SURVEILLANCE OF TARGET ACTIVITIES...         │
+  │   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%         │
+  │                                                           │
+  └───────────────────────────────────────────────────────────┘
+  ```
+  
+  <!-- Performance Matrix -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumarM17&show_icons=true&theme=chartreuse-dark&border_color=00FF00&bg_color=000000" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=chartreuse-dark&border=00FF00&background=000000" width="400" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=000000" width="400" alt="Top Languages" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=github_dark" width="800" alt="Contribution Graph" />
+</div>
+
+---
+
+<!-- Projects Section - Hacker Style -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> <b>CLASSIFIED_OPERATIONS</b>
+
+<div align="center">
+  ```
+  ┌───────────────────────────────────────────────────────────┐
+  │                                                           │
+  │   ACCESS LEVEL: RESTRICTED                                │
+  │   RETRIEVING CLASSIFIED PROJECT FILES...                  │
+  │   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%         │
+  │                                                           │
+  └───────────────────────────────────────────────────────────┘
+  ```
+  
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3 align="center">PROJECT_001: INFILTRATION IN PROGRESS</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/STATUS-DEVELOPING-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Status" />
+        </p>
+        <p align="center">Deployment scheduled for future date. Check repository for developments.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">PROJECT_002: AWAITING DEPLOYMENT</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/STATUS-PLANNING-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Status" />
+        </p>
+        <p align="center">Target acquisition in progress. Repository access pending.</p>
+      </td>
+    </tr>
+  </table>
+  
+  <a href="https://github.com/PraveenKumarM17?tab=repositories">
+    <img src="https://img.shields.io/badge/ACCESS_ALL_REPOSITORIES-12100E?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=black" alt="View All Repositories" />
+  </a>
+</div>
+
+---
+
+<!-- Footer - Hacker Style -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  ```
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │   [!] WARNING: CONNECTION TERMINATED                                    │
+  │                                                                         │
+  │   PRAVEEN@SYSTEM:~$ echo "Thanks for exploring my digital footprint.    │
+  │   Let's connect and hack something amazing together."                   │
+  │                                                                         │
+  │   [>] LOGGING OUT...                                                    │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
+  ```
+</div>
