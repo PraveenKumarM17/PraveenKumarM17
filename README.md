@@ -224,6 +224,7 @@ I'm a passionate computer science student with a strong interest in full-stack d
 
 <div align="center">
   <h2>⚡ Fun Facts</h2>
+  <p>☕ I believe caffeine and code go hand-in-hand!</p>
 </div>
 
 <div align="center">
@@ -241,9 +242,9 @@ I'm a passionate computer science student with a strong interest in full-stack d
 
 <div align="center">
   <h2>💻 Coding Time Stats</h2>
-  <img src="https://img.shields.io/badge/Weekly_Coding_Time-30_Hours-blue?style=for-the-badge" alt="Weekly Coding Time"/>
+  <img src="https://img.shields.io/badge/Weekly_Coding_Time-10_Hours-blue?style=for-the-badge" alt="Weekly Coding Time"/>
   <img src="https://img.shields.io/badge/Most_Used_Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Most Used Language"/>
-  <img src="https://img.shields.io/badge/Focus_Time-5_Hours_Daily-green?style=for-the-badge" alt="Focus Time"/>
+  <img src="https://img.shields.io/badge/Focus_Time-2_Hours_Daily-green?style=for-the-badge" alt="Focus Time"/>
 </div>
 
 <br><br>
