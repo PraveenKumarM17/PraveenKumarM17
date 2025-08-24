@@ -126,7 +126,7 @@ I'm a passionate computer science student with a strong interest in full-stack d
 <!-- Spotify Currently Playing -->
 <div align="center">
   <h2>🎵 Currently Vibing To</h2>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+  <a href="https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account">
     <img src="https://novatorem-khaki-ten.vercel.app/api/spotify" alt="Praveen Kumar's Spotify" width="350" />
   </a>
 </div>
