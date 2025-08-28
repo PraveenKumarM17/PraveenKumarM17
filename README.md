@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PraveenKumarM17/PraveenKumarM17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night View" />
 </div>
+
 
 <div align="center">
   <a href="mailto:praveenkumarm4307@gmail.com">
