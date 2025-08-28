@@ -1,11 +1,47 @@
-# <div align="center">Praveen Kumar M</div>
+# <div align="center">🌌 Welcome to the Code Universe</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Praveen+Kumar+M;Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=PRAVEEN%20KUMAR%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/PraveenKumarM17/PraveenKumarM17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Navigating+Through+Code+Galaxies;⚡+Building+Tomorrow's+Digital+Reality;🌟+Where+Innovation+Meets+Execution" alt="Dynamic Title" />
+</div>
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="40%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding Animation" style="max-width: 100%; height: auto;"/>
+      </td>
+      <td align="center" width="60%">
+        
+```typescript
+interface Developer {
+  name: "Praveen Kumar M";
+  role: "Future Full-Stack developer";
+  location: "Code Dimension 🌌";
+  powers: ["React", "Node", "Cloud Computing"];
+  mission: "Transforming Ideas into Digital Reality";
+  status: "Always Learning, Always Building";
+}
+
+const praveen: Developer = {
+  currentQuest: "Mastering Advanced React & Cloud Architecture",
+  nextMilestone: "Contributing to Open Source Universe",
+  superPower: "Turning Coffee into Code ☕ → 💻"
+};
+```
+  </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/PraveenKumarM17/PraveenKumarM17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;" /> 
+</div>
 
 <div align="center">
   <a href="mailto:praveenkumarm4307@gmail.com">
@@ -15,18 +51,19 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=PraveenKumarM17&style=for-the-badge&color=0e75b6)
+  <img src="https://komarev.com/ghpvc/?username=PraveenKumarM17&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
   <h2>💫 About Me</h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true" width="335px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true" />
-      
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true&layout=compact" />
+        
 ```javascript
 const praveenKumar = {
   education: "Computer Science Engineering Student",
@@ -39,9 +76,10 @@ const praveenKumar = {
 ```
 
 I'm a passionate computer science student with a strong interest in full-stack development and cloud technologies. Currently focused on expanding my frontend skills while diving deeper into cloud architecture. I'm open to collaborations on frontend projects and would appreciate guidance on advanced cloud computing implementations.
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
@@ -54,7 +92,8 @@ I'm a passionate computer science student with a strong interest in full-stack d
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  </p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </p>
 </details>
 
 <details open>
@@ -102,31 +141,25 @@ I'm a passionate computer science student with a strong interest in full-stack d
 </div>
 
 <div align="center">
-<p align="center">
   <a href="https://github.com/PraveenKumarM17">
-    <img src="https://github-profile-trophy.vercel.app/?username=PraveenKumarM17&theme=darkhub&no-frame=true&row=1&column=6" alt="PraveenKumarM17" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/PraveenKumarM17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenKumarM17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PraveenKumarM17's GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=tokyonight&hide_border=true" alt="PraveenKumarM17's GitHub Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PraveenKumarM17&theme=darkhub&no-frame=true&row=1&column=7" alt="PraveenKumarM17" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/PraveenKumarM17">
-    <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=tokyonight" alt="PraveenKumarM17's GitHub Contribution"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenKumarM17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PraveenKumarM17's GitHub Stats" style="max-width: 48%; height: auto;" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=tokyonight&hide_border=true" alt="PraveenKumarM17's GitHub Streak" style="max-width: 48%; height: auto;" />
   </a>
 </div>
-</div>
 
-<!-- Spotify Currently Playing -->
+<br>
+
 <div align="center">
-  <h2>🎵 Currently Vibing To</h2>
-  <a href="https://www.spotify.com/in-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account">
-    <img src="https://novatorem-khaki-ten.vercel.app/api/spotify" alt="Praveen Kumar's Spotify" width="350" />
+  <a href="https://github.com/PraveenKumarM17">
+    <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=tokyonight" alt="PraveenKumarM17's GitHub Contribution" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
@@ -135,17 +168,17 @@ I'm a passionate computer science student with a strong interest in full-stack d
 </div>
 
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td width="50%">
-        <h3 align="center">Project 1: Coming Soon</h3>
-        <div align="center">
+      <td width="50%" align="center">
+        <h3>🚀 Project 1: Coming Soon</h3>
+        <div>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-In_Development-blue?style=for-the-badge" alt="Status" />
           </a>
           <br><br>
           <div>
-            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Project 1 GIF"/>
+            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Project 1 GIF" style="max-width: 100%; height: auto;"/>
           </div>
           <br>
           <p>
@@ -155,15 +188,15 @@ I'm a passionate computer science student with a strong interest in full-stack d
           </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">Project 2: In Planning</h3>
-        <div align="center">
+      <td width="50%" align="center">
+        <h3>📱 Project 2: In Planning</h3>
+        <div>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-Planning-yellow?style=for-the-badge" alt="Status" />
           </a>
           <br><br>
           <div>
-            <img height="120" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Project 2 GIF"/>
+            <img height="120" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Project 2 GIF" style="max-width: 100%; height: auto;"/>
           </div>
           <br>
           <p>
@@ -188,6 +221,7 @@ I'm a passionate computer science student with a strong interest in full-stack d
 <div align="center">
   <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Advanced React"/>
   <img src="https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Architecture"/>
+  <br>
   <img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipelines"/>
   <img src="https://img.shields.io/badge/DevOps_Practices-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps Practices"/>
 </div>
@@ -218,7 +252,6 @@ I'm a passionate computer science student with a strong interest in full-stack d
   <a href="https://github.com/PraveenKumarM17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn and other social media links here -->
 </div>
 
 <div align="center">
@@ -229,13 +262,14 @@ I'm a passionate computer science student with a strong interest in full-stack d
 <div align="center">
   <img src="https://img.shields.io/badge/Most_Productive_After-Midnight-blue?style=for-the-badge" alt="Productive After Midnight"/>
   <img src="https://img.shields.io/badge/Favorite_IDE-VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <br>
   <img src="https://img.shields.io/badge/Coffee_Cups_Per_Day-∞-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee"/>
 </div>
 
 <div align="center">
   <h2>🏆 GitHub Activity Graph</h2>
   <a href="https://github.com/PraveenKumarM17">
-    <img alt="Praveen Kumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenKumarM17&theme=tokyo-night&hide_border=true" />
+    <img alt="Praveen Kumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenKumarM17&theme=tokyo-night&hide_border=true" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
@@ -243,23 +277,23 @@ I'm a passionate computer science student with a strong interest in full-stack d
   <h2>💻 Coding Time Stats</h2>
   <img src="https://img.shields.io/badge/Weekly_Coding_Time-10_Hours-blue?style=for-the-badge" alt="Weekly Coding Time"/>
   <img src="https://img.shields.io/badge/Most_Used_Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Most Used Language"/>
+  <br>
   <img src="https://img.shields.io/badge/Focus_Time-2_Hours_Daily-green?style=for-the-badge" alt="Focus Time"/>
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="max-width: 100%; height: auto;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="max-width: 100%;">
   
   <p><i>"The best way to predict the future is to invent it."</i></p>
   <p>Thank you for visiting my profile! Feel free to explore my repositories and reach out!</p>
   
-  ![Visitor Count](https://profile-counter.glitch.me/PraveenKumarM17/count.svg)
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="max-width: 100%;">
 </div>
