@@ -4,9 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Praveen+Kumar+M;Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+Computing+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night View" />
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/PraveenKumarM17/PraveenKumarM17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
 
 
 <div align="center">
