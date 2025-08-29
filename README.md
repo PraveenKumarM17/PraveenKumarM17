@@ -18,22 +18,14 @@
       </td>
       <td align="center" width="60%">
         
-```typescript
-interface Developer {
-  name: "Praveen Kumar M";
-  role: "Future Full-Stack developer";
-  location: "Code Dimension 🌌";
-  powers: ["React", "Node", "Cloud Computing"];
-  mission: "Transforming Ideas into Digital Reality";
-  status: "Always Learning, Always Building";
-}
+<div align="center">
+  <blockquote>
+    "Every line of code I write today  
+    prepares me for the problems of tomorrow."
+  </blockquote>
+</div>
 
-const praveen: Developer = {
-  currentQuest: "Mastering Advanced React & Cloud Architecture",
-  nextMilestone: "Contributing to Open Source Universe",
-  superPower: "Turning Coffee into Code ☕ → 💻"
-};
-```
+
   </td>
     </tr>
   </table>
