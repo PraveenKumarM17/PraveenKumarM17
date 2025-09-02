@@ -31,20 +31,7 @@
   </table>
 </div>
 
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/PraveenKumarM17/PraveenKumarM17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;" /> 
-</div>
 
-<div align="center">
-  <a href="mailto:praveenkumarm4307@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/PraveenKumarM17">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=PraveenKumarM17&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <h2>💫 About Me</h2>
@@ -132,12 +119,6 @@ I'm a passionate computer science student with a strong interest in full-stack d
   <h2>📊 GitHub Stats & Activity</h2>
 </div>
 
-<div align="center">
-  <a href="https://github.com/PraveenKumarM17">
-    <img src="https://github-profile-trophy.vercel.app/?username=PraveenKumarM17&theme=darkhub&no-frame=true&row=1&column=7" alt="PraveenKumarM17" style="max-width: 100%; height: auto;" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
@@ -154,81 +135,11 @@ I'm a passionate computer science student with a strong interest in full-stack d
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=tokyonight" alt="PraveenKumarM17's GitHub Contribution" style="max-width: 100%; height: auto;" />
   </a>
 </div>
-
 <div align="center">
-  <h2>🔭 Projects Showcase</h2>
-</div>
-
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🚀 Project 1: Coming Soon</h3>
-        <div>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-In_Development-blue?style=for-the-badge" alt="Status" />
-          </a>
-          <br><br>
-          <div>
-            <img height="120" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Project 1 GIF" style="max-width: 100%; height: auto;"/>
-          </div>
-          <br>
-          <p>
-            <strong>Tech Stack:</strong> React, Node.js, MongoDB
-            <br>
-            Currently working on exciting projects. Stay tuned for updates!
-          </p>
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <h3>📱 Project 2: In Planning</h3>
-        <div>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-Planning-yellow?style=for-the-badge" alt="Status" />
-          </a>
-          <br><br>
-          <div>
-            <img height="120" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Project 2 GIF" style="max-width: 100%; height: auto;"/>
-          </div>
-          <br>
-          <p>
-            <strong>Tech Stack:</strong> MERN Stack, Docker, AWS
-            <br>
-            Planning stage of a new project. Details will be available soon.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
   <br>
   <a href="https://github.com/PraveenKumarM17?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-</div>
-
-<div align="center">
-  <h2>🌱 Currently Learning</h2>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Advanced React"/>
-  <img src="https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Architecture"/>
-  <br>
-  <img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipelines"/>
-  <img src="https://img.shields.io/badge/DevOps_Practices-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps Practices"/>
-</div>
-
-<div align="center">
-  <h2>👯 Looking to Collaborate On</h2>
-</div>
-
-<div align="center">
-  <p>I'm interested in collaborating on frontend projects that can help me enhance my skills while contributing meaningfully.</p>
-  <p>If you have an interesting project in mind, feel free to reach out!</p>
-  
-  <img src="https://img.shields.io/badge/Frontend_Projects-success?style=for-the-badge" alt="Frontend Projects"/>
-  <img src="https://img.shields.io/badge/Open_Source-informational?style=for-the-badge" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Cloud_Projects-blueviolet?style=for-the-badge" alt="Cloud Projects"/>
 </div>
 
 <div align="center">
