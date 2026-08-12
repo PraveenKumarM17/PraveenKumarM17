@@ -1,16 +1,37 @@
+# <div align="center">🌌 Welcome to the Code Universe</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=PRAVEEN%20KUMAR%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
-  <img
-    src="./portrait.svg"
-    width="460"
-    alt="ASCII portrait of Praveen Kumar"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Navigating+Through+Code+Galaxies;⚡+Building+Tomorrow's+Digital+Reality;🌟+Where+Innovation+Meets+Execution" alt="Dynamic Title" />
 </div>
 
 <br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="40%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding Animation" style="max-width: 100%; height: auto;"/>
+      </td>
+      <td align="center" width="60%">
+        
+<div align="center">
+  <blockquote>
+    "Every line of code I write today  
+    prepares me for the problems of tomorrow."
+  </blockquote>
+</div>
+
+
+  </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <div align="center">
   <h2>💫 About Me</h2>
@@ -20,65 +41,20 @@
   <table>
     <tr>
       <td align="center">
-        <div align="center">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true&layout=compact" width="300px" style="max-width: 100%; height: auto;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarM17&theme=tokyonight&hide_border=true&layout=compact" />
+        
+```javascript
+const praveenKumar = {
+  education: "Computer Science Engineering Student",
+  focus: ["Full Stack Development", "Cloud Computing"],
+  currentLearning: "Frontend Frameworks & Cloud Architecture",
+  lookingToCollaborate: "Frontend Projects",
+  seekingHelp: "Advanced Cloud Computing",
+  funFact: "Most productive coding sessions happen after midnight"
+};
+```
 
-          <h3>⚡ Praveen Kumar</h3>
-
-          <p>
-            <samp>
-              CSE Student • Full-Stack Developer • Cloud Enthusiast
-            </samp>
-          </p>
-
-          <br>
-
-          <table>
-            <tr>
-              <td align="left">
-
-                <samp>
-                  <b>▸ CURRENTLY</b><br>
-                  Building full-stack applications and exploring<br>
-                  scalable cloud architectures.
-                </samp>
-
-                <br><br>
-
-                <samp>
-                  <b>▸ STACK</b><br>
-                  C / C++ · Java · JavaScript · React · Node.js<br>
-                  Express · MongoDB · MySQL · Docker · Git
-                </samp>
-
-                <br><br>
-
-                <samp>
-                  <b>▸ EXPLORING</b><br>
-                  Cloud Computing · System Design · Backend<br>
-                  Engineering · Modern Web Technologies
-                </samp>
-
-                <br><br>
-
-                <samp>
-                  <b>▸ OPEN TO</b><br>
-                  Interesting projects, collaborations &amp;<br>
-                  opportunities to build useful software.
-                </samp>
-
-                <br><br>
-
-                <samp>
-                  <b>▸ OFF THE CLOCK</b><br>
-                  Usually found solving problems or coding<br>
-                  when everyone else is asleep. 🌙
-                </samp>
-
-              </td>
-            </tr>
-          </table>
-
-        </div>
+I'm a passionate computer science student with a strong interest in full-stack development and cloud technologies. Currently focused on expanding my frontend skills while diving deeper into cloud architecture. I'm open to collaborations on frontend projects and would appreciate guidance on advanced cloud computing implementations.
       </td>
     </tr>
   </table>
@@ -147,7 +123,37 @@
 
 <div align="center">
   <a href="https://github.com/PraveenKumarM17">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenKumarM17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PraveenKumarM17's GitHub Stats" style="max-width: 48%; height: auto;" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=tokyonight&hide_border=true" alt="PraveenKumarM17's GitHub Streak" style="max-width: 48%; height: auto;" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/PraveenKumarM17">
     <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenKumarM17&theme=tokyonight" alt="PraveenKumarM17's GitHub Contribution" style="max-width: 100%; height: auto;" />
+  </a>
+</div>
+<div align="center">
+  <br>
+  <a href="https://github.com/PraveenKumarM17?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+</div>
+
+<div align="center">
+  <p>Let's connect and build something amazing together!</p>
+  
+  <a href="mailto:praveenkumarm4307@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/PraveenKumarM17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -179,12 +185,12 @@
 </div>
 
 <br><br>
-<!-- 
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="max-width: 100%; height: auto;"/>
 </div>
 
-<br> -->
+<br>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="max-width: 100%;">
