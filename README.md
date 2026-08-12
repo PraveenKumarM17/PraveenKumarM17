@@ -20,65 +20,57 @@
   <table>
     <tr>
       <td align="center">
-        <div align="center">
+        <td align="center">
 
-          <h3>⚡ Praveen Kumar</h3>
+  <h2>⚡ Praveen Kumar</h2>
 
-          <p>
-            <samp>
-              CSE Student • Full-Stack Developer • Cloud Enthusiast
-            </samp>
-          </p>
+  <samp>
+    CSE Student · Full-Stack Developer · Cloud Enthusiast
+  </samp>
 
-          <br>
+  <br><br>
 
-          <table>
-            <tr>
-              <td align="left">
+  <samp>
+    <b>▸ BUILDING</b><br>
+    Full-stack applications &amp; cloud-powered systems
+  </samp>
 
-                <samp>
-                  <b>▸ CURRENTLY</b><br>
-                  Building full-stack applications and exploring<br>
-                  scalable cloud architectures.
-                </samp>
+  <br><br>
 
-                <br><br>
+  <samp>
+    <b>▸ EXPLORING</b><br>
+    Cloud Architecture · System Design · Backend Engineering
+  </samp>
 
-                <samp>
-                  <b>▸ STACK</b><br>
-                  C / C++ · Java · JavaScript · React · Node.js<br>
-                  Express · MongoDB · MySQL · Docker · Git
-                </samp>
+  <br><br>
 
-                <br><br>
+  <samp>
+    <b>▸ TECH</b><br>
+    C · C++ · Java · JavaScript · React · Node.js<br>
+    Express · MongoDB · MySQL · Docker · Git
+  </samp>
 
-                <samp>
-                  <b>▸ EXPLORING</b><br>
-                  Cloud Computing · System Design · Backend<br>
-                  Engineering · Modern Web Technologies
-                </samp>
+  <br><br>
 
-                <br><br>
+  <samp>
+    <b>▸ INTERESTED IN</b><br>
+    Scalable systems · Developer tools · Open source
+  </samp>
 
-                <samp>
-                  <b>▸ OPEN TO</b><br>
-                  Interesting projects, collaborations &amp;<br>
-                  opportunities to build useful software.
-                </samp>
+  <br><br>
 
-                <br><br>
+  <samp>
+    <b>▸ CURRENT STATUS</b><br>
+    Learning → Building → Breaking → Improving
+  </samp>
 
-                <samp>
-                  <b>▸ OFF THE CLOCK</b><br>
-                  Usually found solving problems or coding<br>
-                  when everyone else is asleep. 🌙
-                </samp>
+  <br><br>
 
-              </td>
-            </tr>
-          </table>
+  <samp>
+    <i>"Build things worth remembering."</i>
+  </samp>
 
-        </div>
+</td>
       </td>
     </tr>
   </table>
