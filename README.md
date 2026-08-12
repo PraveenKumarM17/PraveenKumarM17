@@ -20,58 +20,29 @@
   <table>
     <tr>
       <td align="center">
-        <td align="center">
 
-  <h2>⚡ Praveen Kumar</h2>
+        <h3>⚡ Praveen Kumar</h3>
 
-  <samp>
-    CSE Student · Full-Stack Developer · Cloud Enthusiast
-  </samp>
+        <samp>
+          CSE Student · Full-Stack Developer · Cloud Enthusiast
+        </samp>
 
-  <br><br>
+        <br><br>
 
-  <samp>
-    <b>▸ BUILDING</b><br>
-    Full-stack applications &amp; cloud-powered systems
-  </samp>
+        <samp>
+          I build web applications and explore cloud technologies,<br>
+          with a growing interest in scalable systems and backend engineering.
+        </samp>
 
-  <br><br>
+        <br><br>
 
-  <samp>
-    <b>▸ EXPLORING</b><br>
-    Cloud Architecture · System Design · Backend Engineering
-  </samp>
+        <samp>
+          <b>Focus:</b> Full-Stack · Cloud · System Design
+          <br>
+          <b>Currently:</b> Building &amp; learning
+        </samp>
 
-  <br><br>
-
-  <samp>
-    <b>▸ TECH</b><br>
-    C · C++ · Java · JavaScript · React · Node.js<br>
-    Express · MongoDB · MySQL · Docker · Git
-  </samp>
-
-  <br><br>
-
-  <samp>
-    <b>▸ INTERESTED IN</b><br>
-    Scalable systems · Developer tools · Open source
-  </samp>
-
-  <br><br>
-
-  <samp>
-    <b>▸ CURRENT STATUS</b><br>
-    Learning → Building → Breaking → Improving
-  </samp>
-
-  <br><br>
-
-  <samp>
-    <i>"Build things worth remembering."</i>
-  </samp>
-
-</td>
-      </td>
+      </td> 
     </tr>
   </table>
 </div>
