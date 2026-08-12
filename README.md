@@ -5,7 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Navigating+Through+Code+Galaxies;⚡+Building+Tomorrow's+Digital+Reality;🌟+Where+Innovation+Meets+Execution" alt="Dynamic Title" />
+  <img
+    src="./portrait.svg"
+    width="460"
+    alt="ASCII portrait of Praveen Kumar"
+  />
 </div>
 
 <br>
