@@ -20,28 +20,19 @@
   <table>
     <tr>
       <td align="center">
+      
+```javascript
+const praveenKumar = {
+  education: "Computer Science Engineering Student",
+  focus: ["Full Stack Development", "Cloud Computing"],
+  currentLearning: "Frontend Frameworks & Cloud Architecture",
+  lookingToCollaborate: "Frontend Projects",
+  seekingHelp: "Advanced Cloud Computing",
+  funFact: "Most productive coding sessions happen after midnight"
+};
+```
 
-        <h3>⚡ Praveen Kumar</h3>
-
-        <samp>
-          CSE Student · Full-Stack Developer · Cloud Enthusiast
-        </samp>
-
-        <br><br>
-
-        <samp>
-          I build web applications and explore cloud technologies,<br>
-          with a growing interest in scalable systems and backend engineering.
-        </samp>
-
-        <br><br>
-
-        <samp>
-          <b>Focus:</b> Full-Stack · Cloud · System Design
-          <br>
-          <b>Currently:</b> Building &amp; learning
-        </samp>
-
+I'm a passionate computer science student with a strong interest in full-stack development and cloud technologies. Currently focused on expanding my frontend skills while diving deeper into cloud architecture. I'm open to collaborations on frontend projects and would appreciate guidance on advanced cloud computing implementations.
       </td> 
     </tr>
   </table>
