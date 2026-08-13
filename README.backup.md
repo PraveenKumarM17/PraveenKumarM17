@@ -1,8 +1,10 @@
 # <div align="center">🌌 Welcome to the Code Universe</div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=PRAVEEN%20KUMAR%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
+</div> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=PRAVEEN%20KUMAR%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&v=2" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Navigating+Through+Code+Galaxies;⚡+Building+Tomorrow's+Digital+Reality;🌟+Where+Innovation+Meets+Execution" alt="Dynamic Title" />

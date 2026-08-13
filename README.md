@@ -136,9 +136,9 @@ I'm a passionate computer science student with a strong interest in full-stack d
 <!-- 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="max-width: 100%; height: auto;"/>
-</div>
+</div> -->
 
-<br> -->
+<br> 
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="max-width: 100%;">
