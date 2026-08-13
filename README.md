@@ -96,7 +96,11 @@ I'm a passionate computer science student with a strong interest in full-stack d
 <div align="center">
   <h2>📊 GitHub Stats & Activity</h2>
 </div>
-
+<div align="center">
+  <a href="https://github.com/PraveenKumarM17">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumarM17&theme=tokyonight&hide_border=true" alt="PraveenKumarM17's GitHub Streak" style="max-width: 48%; height: auto;" />
+  </a>
+</div>
 <br>
 
 <div align="center">
